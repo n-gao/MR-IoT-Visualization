@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 00f158e2a62a22040af70918856b1c47
+timeCreated: 1497022838
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ScanningDialogPrefab: {fileID: 1088947670664734, guid: 9f4dfba13d8355b44a7d6e85307c6798,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
